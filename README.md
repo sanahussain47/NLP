@@ -1,6 +1,6 @@
 # NLP
 
-# 📊 Sentiment Analysis on Amazon Reviews
+#  Sentiment Analysis on Amazon Reviews
 
 This project builds a complete text classification pipeline to analyze the sentiment of Amazon product reviews using different machine learning models.
 
@@ -8,7 +8,7 @@ This project builds a complete text classification pipeline to analyze the senti
 
 ---
 
-## ✅ Project Overview
+##  Project Overview
 
 We implemented a sentiment analysis pipeline that includes:
 
@@ -20,7 +20,7 @@ We implemented a sentiment analysis pipeline that includes:
 
 ---
 
-## 📈 Model Comparison Results
+## Model Comparison Results
 
 | Model               | Accuracy | Precision | Recall | F1 Score |
 |---------------------|----------|-----------|--------|----------|
@@ -28,11 +28,11 @@ We implemented a sentiment analysis pipeline that includes:
 | Logistic Regression | 0.865    | 0.904     | 0.556  | 0.564    |
 | SVM                 | 0.886    | 0.808     | 0.691  | 0.728    |
 
-> ✅ **SVM outperformed other models**, delivering the highest F1 Score and overall accuracy.
+>  **SVM outperformed other models**, delivering the highest F1 Score and overall accuracy.
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - Python
 - Scikit-learn
@@ -42,7 +42,7 @@ We implemented a sentiment analysis pipeline that includes:
 
 ---
 
-## 🛠️ How to Run
+##  How to Run
 
 1. Click the "Open in Colab" button above
 2. Run each cell in order
@@ -50,7 +50,7 @@ We implemented a sentiment analysis pipeline that includes:
 
 ---
 
-## 🔍 Key Takeaways
+##  Key Takeaways
 
 - Feature representation plays a crucial role in text classification.
 - SVM is highly effective for sparse, high-dimensional data like TF-IDF features.
@@ -58,7 +58,7 @@ We implemented a sentiment analysis pipeline that includes:
 
 ---
 
-## ✨ Future Improvements
+##  Future Improvements
 
 - Add deep learning models (LSTM, BERT)
 - Integrate Word Embeddings (Word2Vec, GloVe)
